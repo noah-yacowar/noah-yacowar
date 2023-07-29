@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 -🛠 Engineering student at the University of Waterloo
+
 -👯 Looking to collaborate on game development and AI
 -📫 [Email Me](mailto:noahyacowar@gmail.com)
 -💻 [My Website](https://noah-yacowar.github.io/Portfolio-Website/)
