@@ -1,6 +1,7 @@
 <h1 align="center">
-Hey, I'm Noah Yacowar! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Hey, I'm Noah Yacowar! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <!--<img src="https://komarev.com/ghpvc/?username=francis-bui&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="francisbui" />-->
  <a href="https://francisbui.ca/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> </h1>
 
