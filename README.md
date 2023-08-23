@@ -7,7 +7,7 @@ Hey, I'm Francis Bui!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=36&pause=1000&color=29F776&width=435&lines=Mechatronics+Engineer;Game+Developer;Creative+Programmer;Check+Out+My+Portfolio" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=36&pause=1000&color=29F776&width=435&center=true&lines=Mechatronics+Engineer;Game+Developer;Creative+Programmer;Check+Out+My+Portfolio" alt="Typing SVG" /></a>
 </p>
 
 <img align="left" src="https://raw.githubusercontent.com/Francis-Bui/Francis-Bui/main/CDUE1044_OPENCV-min.png" width="320" />
