@@ -11,7 +11,7 @@ Hey, I'm Noah Yacowar!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=36&pause=1000&color=29F776&width=435&center=true&lines=Mechatronics+Engineer;Game+Developer;Creative+Programmer;Check+Out+My+Portfolio" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://raw.githubusercontent.com/Francis-Bui/Francis-Bui/main/CDUE1044_OPENCV-min.png" width="320" />
+<img align="left" src="https://raw.githubusercontent.com/noah-yacowar/noah-yacowar/main/Noah_Profile.png" width="320" />
 <hr>
 
 ```
