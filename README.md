@@ -17,9 +17,9 @@ Hey, I'm Noah Yacowar!
 ```
 🌐 Prev Unity Developer @ DRDC Toronto
 -------------------------
-💻 I'm an aspiring Full Stack Developer and Machine Learning Engineer
+💻 I'm an aspiring Robotics Engineer and Video Game Developer
 📚 I'm studying Mechatronics Engineering at the University of Waterloo
-📝 I have a deep passion for Robotics and Artificial Intelligence
+📝 I have a deep passion for R&D and Artificial Intelligence
 🔭 Working on cool Robots with Deep Learning & Machine Learning
 🌱 Learning about LLMs
 🌟 Main languages: Python, C++
