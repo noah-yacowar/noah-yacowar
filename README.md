@@ -26,7 +26,11 @@ Hey, I'm Noah Yacowar!
 ```
 <hr/>
 
+<p>
 
+
+  
+</p>
 
 
 <h3 align="center">👨‍💻 Programming Languages<h3>
