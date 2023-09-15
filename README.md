@@ -26,17 +26,8 @@ Hey, I'm Noah Yacowar!
 ```
 <hr/>
 
-<p>
-
-    '''
-q
-
-
-q
-
-    '''
-  
-</p>
+<br>
+<br>
 
 
 <h3 align="center">👨‍💻 Programming Languages<h3>
