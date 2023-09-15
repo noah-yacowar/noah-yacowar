@@ -15,7 +15,7 @@ Hey, I'm Noah Yacowar!
 <hr>
 
 ```
-🌐 Prev ML Engineer @ Gridspace
+🌐 Prev Unity Developer @ DRDC Toronto
 -------------------------
 💻 I'm an aspiring Full Stack Developer and Machine Learning Engineer
 📚 I'm studying Mechatronics Engineering at the University of Waterloo
@@ -28,7 +28,10 @@ Hey, I'm Noah Yacowar!
 
 <p>
 
+    '''
 
+
+    '''
   
 </p>
 
