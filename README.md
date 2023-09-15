@@ -66,7 +66,7 @@ Hey, I'm Noah Yacowar!
 <hr/><h3 align="center">💻 Software and Tools<h3>
 
 <p align="center">
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-white?logo=%23000000&logoColor=white"></a>
+    <a href="#"><img alt="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="RaspberryPi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
