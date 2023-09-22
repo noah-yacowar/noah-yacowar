@@ -1,4 +1,4 @@
-<div style="font-size: 16px;" align="center">
+<div style="font-size: 128px;" align="center">
   Hey, I'm Noah Yacowar!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <a href="https://francisbui.ca/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> 
