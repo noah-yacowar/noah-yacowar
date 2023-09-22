@@ -1,6 +1,6 @@
 <h1 align="center">TESTTTTTT</h1>
 <h1 align="center">
-Hey, I'm Noah Yacowar! 
+<h1>Hey, I'm Noah Yacowar!</h1> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://noah-yacowar.github.io/Portfolio-Website/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> 
