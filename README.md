@@ -1,8 +1,8 @@
-<h1>
+<div style="font-size: 16px;" align="center">
   Hey, I'm Noah Yacowar!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <a href="https://francisbui.ca/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> 
-</h1>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=36&pause=1000&color=29F776&width=435&center=true&lines=Mechatronics+Engineer;Game+Developer;Creative+Programmer;Check+Out+My+Portfolio" alt="Typing SVG" /></a>
