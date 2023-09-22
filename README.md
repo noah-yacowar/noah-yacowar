@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>
+  <h2>
     Hey, I'm Noah Yacowar!
-  </h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </h2>
+  
   <a href="https://francisbui.ca/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> 
 </div>
 
