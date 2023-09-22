@@ -1,4 +1,4 @@
-<h1>TESTTTTTT</h1>
+<h1 align="center">TESTTTTTT</h1>
 <h1 align="center">
 Hey, I'm Noah Yacowar! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
