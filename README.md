@@ -1,7 +1,7 @@
 <div style="font-size: 128px;" align="center">
-  Hey, I'm Noah Yacowar! 
+  <h1>Hey, I'm Noah Yacowar!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <a href="https://francisbui.ca/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> 
+  <a href="https://noah-yacowar.github.io/Portfolio-Website/"><img alt="Portfolio" align='left' src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> 
 </div>
 
 <p align="center">
@@ -16,8 +16,8 @@
 -------------------------
 💻 I'm an aspiring Robotics Engineer and Video Game Developer
 📚 I'm studying Mechatronics Engineering at the University of Waterloo
-📝 I have a deep passion for R&D and Artificial Intelligence
-🔭 Working on cool Robots with Deep Learning & Machine Learning
+📝 I have a deep passion for R&D
+🔭 Working on cool Robots
 🌱 Learning about LLMs
 🌟 Main languages: Python, C++
 ```
